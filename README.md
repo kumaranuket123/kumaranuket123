@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaranuket123" alt="kumaranuket123" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaranuket123" alt="kumaranuket123" /></a> </p>
 
 - 💬 Ask me about **C | C++ | OOPs | DSA | SQL | Blockchain | Cryptography | OS | Python | Machine Learning | Algorithms | Innovation**
 
